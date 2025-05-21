@@ -13,6 +13,7 @@ public class AlgoritmosInoptimos {
         return false;
     }
 
+
     // 2. Contar elementos mayores que X usando dos bucles
     public static int contarMayores(int[] arr, int x) {
         int count = 0;
